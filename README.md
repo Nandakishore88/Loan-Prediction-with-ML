@@ -1,4 +1,3 @@
-# Loan-Prediction-with-ML
 https://www.youtube.com/watch?v=T9kgWBmUIRk
 https://www.youtube.com/watch?v=AB4BtP9RSNM&list=PLEVbHcUdyXdHcUCKCB-AJEMa0leoVXYTS&index=2
 
